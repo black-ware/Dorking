@@ -15,7 +15,7 @@ echo $w"_"$r"======================================"$w"_"
 echo
 echo $r"["$w"+"$r"]"$w" Author Tools : ELEKTRON_425"
 echo $r"["$w"+"$r"]"$w" Team         : BlackWare"
-echo $r"["$w"+"$r"]"$w" Thanks To    : D4RK_LIFE - Mr.Ki9N - Joker.Id -"" M®.D¥$T®0¥€®"
+echo $r"["$w"+"$r"]"$w" Thanks To    : D4RK_LIFE - Mr.KiN9 - Joker.Id -"" M®.D¥$T®0¥€®"
 echo $r"["$w"+"$r"]"$w" Tools        : Dorker Tools $versi"
 echo $r"["$w"+"$r"]"$w" Note         : Gunakan Dengan Bijak !!!"
 echo
@@ -34,7 +34,7 @@ echo $w"_"$r"======================================"$w"_"
 echo
 echo $r"["$w"+"$r"]"$w" Author Tools : ELEKTRON_425"
 echo $r"["$w"+"$r"]"$w" Team         : BlackWare"
-echo $r"["$w"+"$r"]"$w" Thanks To    : D4RK_LIFE - Mr.Ki9N - Joker.Id - M®.D¥$T®0¥€®"
+echo $r"["$w"+"$r"]"$w" Thanks To    : D4RK_LIFE - Mr.KinN9 - Joker.Id - M®.D¥$T®0¥€®"
 echo $r"["$w"+"$r"]"$w" Tools        : Dorker Tools $versi"
 echo $r"["$w"+"$r"]"$w" Note         : Gunakan Dengan Bijak !!!"
 echo
